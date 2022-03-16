@@ -1,2 +1,7 @@
 # requirements.txt
+
+streamlit
 snowflake-connector-python
+streamlit-echarts
+vega-datasets
+pandas
