@@ -1,1 +1,1 @@
-# snowflake_connect_and_echarts_demo
+# Snowflake Connect + Echarts Demo
